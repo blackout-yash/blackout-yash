@@ -53,7 +53,7 @@
 
 ## Github Stats:
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackout-yash&show_icons=true&locale=en&layout=compact" alt="blackout-yash" /></p>
+  <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackout-yash&show_icons=true&locale=en&layout=compact" alt="blackout-yash" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackout-yash&show_icons=true&locale=en" alt="blackout-yash" /></p>
 
