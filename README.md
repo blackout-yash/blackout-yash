@@ -7,7 +7,7 @@
 <div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h1></div>  
 <br>
 
-<h3>
+<big>
 
 - 🔭 I’m addicted to explore different paradigms of competitive programming.
   
@@ -19,10 +19,10 @@
   
 
 - ⚡ Fun fact: I think I am funny XD.
-<h3>
+<big>
   
 </br>  
-<h2>## Have some experience of: <h2>
+## Have some experience of: <h2>
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
