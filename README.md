@@ -4,8 +4,8 @@
 </div>   
 
 
-<br>
-<div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h1></div>  
+
+<div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Yash, a CSE sophomore.<h1></div> 
 <br>
   
 - 🔭 I’m addicted to explore different paradigms of competitive programming.
