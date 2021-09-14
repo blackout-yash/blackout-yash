@@ -14,10 +14,10 @@
 - 🌱 I’m currently diving deep into **Web-Development**.
   
 
-- 🌻 Aspire to be into future **Dev. roles! ❤**
+- 🌻 Aspire to be into future **Dev. roles ❤**
   
 
-- ⚡ Fun fact: **I think I am funny XD**.
+- ⚡ Fun fact: **I think I am funny! XD😉**
   
   
 <br/>  
