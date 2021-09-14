@@ -5,9 +5,10 @@
 
 
 <br>
-<div align="center"><h3> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h3></div>  
+<div align="center"><h4> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h4></div>  
 <br>
-  
+
+<h3>
 - 🔭 I’m addicted to explore different paradigms of competitive programming.
   
 
@@ -18,7 +19,7 @@
   
 
 - ⚡ Fun fact: I think I am funny XD.
-  
+<h3>
   
 <br/>  
 
