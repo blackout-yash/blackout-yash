@@ -8,16 +8,16 @@
 <div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Yash, a CSE sophomore.<h1></div> 
 <br>
   
-- 🔭 I’m addicted to explore different paradigms of competitive programming.
+- 🔭 I’m addicted to explore different paradigms of **Competitive Programming**.
   
 
-- 🌱 I’m currently diving deep into web development.
+- 🌱 I’m currently diving deep into **Web-Development**.
   
 
-- 🌻 Aspire to be into future Dev. roles! ❤
+- 🌻 Aspire to be into future **Dev. roles! ❤**
   
 
-- ⚡ Fun fact: I think I am funny XD.
+- ⚡ Fun fact: **I think I am funny XD**.
   
   
 <br/>  
