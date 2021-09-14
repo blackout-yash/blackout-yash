@@ -52,13 +52,13 @@
 
 
 ## Github Stats:
-<!-- <div align="center"> -->
+<div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackout-yash&show_icons=true&locale=en&layout=compact" alt="blackout-yash" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackout-yash&show_icons=true&locale=en" alt="blackout-yash" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackout-yash&" alt="blackout-yash" /></p>
-<!-- </div> -->
+</div>
 
 
 <br/>  
