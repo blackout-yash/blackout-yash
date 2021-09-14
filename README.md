@@ -4,8 +4,7 @@
 </div>   
 
 
-<br>
-<div align="center"><h2> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h2></div>  
+<div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! Hola! I'm Yash, a CSE sophomore.<h1></div>  
 <br>
 
 <h3>
@@ -22,8 +21,7 @@
 - ⚡ Fun fact: I think I am funny XD.
 <h3>
   
-<br/>  
-
+<br>  
 ## Have some experience of: 
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" />  
