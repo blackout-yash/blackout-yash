@@ -21,8 +21,8 @@
 - ⚡ Fun fact: I think I am funny XD.
 <h3>
   
-<br>  
-## Have some experience of: 
+</br>  
+<h2>## Have some experience of: <h2>
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
