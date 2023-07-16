@@ -28,9 +28,10 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML5" height="53" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" height="53" />  
-
- <img style="margin: 10px" src="https://icons8.com/icon/Vra58PN2KmI5/react" alt="Java" height="50" /> 
- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=108784&format=png" alt="JS" height="53" />  
+ <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=Vra58PN2KmI5&format=png" alt="React" height="50" /> 
+ <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=54087&format=png" alt="Node" height="50" /> 
+ <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" height="50" /> 
 </div>
 <br/>  
 
