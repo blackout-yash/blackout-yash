@@ -5,10 +5,10 @@
 
 
 
-<div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Yash, a CSE sophomore.<h1></div> 
+<div align="center"><h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Yash, a CSE Student.<h1></div> 
 <br>
   
-- 🔭 I’m addicted to explore different paradigms of **Competitive Programming**.
+- 🔭 I’m addicted to exploring different paradigms of **Competitive Programming**.
   
 
 - 🌱 I’m currently diving deep into **Web-Development**.
@@ -29,7 +29,7 @@
 <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML5" height="53" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" height="53" />  
 
- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" /> 
+ <img style="margin: 10px" src="https://icons8.com/icon/Vra58PN2KmI5/react" alt="Java" height="50" /> 
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /> 
 </div>
 <br/>  
